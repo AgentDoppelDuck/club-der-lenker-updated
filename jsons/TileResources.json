@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Tea",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Grassland", "Plains", "Hill"],
+    "food": 1,
+    "gold": 1,
+    "improvement": "Plantation",
+    "uniques": [
+      "Generated with weight [12]",
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>"
+    ]
+  },
+  {
+    "name": "Opium",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Grassland", "Plains", "Flood plains", "Desert"],
+    "gold": 2,
+    "improvement": "Plantation",
+    "uniques": [
+      "Generated with weight [8]"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Opium is produced from poppies and has a long history in medicine and trade. Its commerce also contributed to addiction, coercive exchange, and international conflict."
+      }
+    ]
+  },
+  {
+    "name": "Rice",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Grassland", "Flood plains", "Marsh"],
+    "food": 1,
+    "improvement": "Farm",
+    "uniques": [
+      "Generated on every [30] tiles"
+    ]
+  }
+]

@@ -1,0 +1,293 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Altar of Offering
+  rotate: false
+  xy: 4, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ballet Theatre
+  rotate: false
+  xy: 4, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bauwagen
+  rotate: false
+  xy: 112, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Club der Lenker
+  rotate: false
+  xy: 220, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Coastal Conservatory
+  rotate: false
+  xy: 328, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Feeding Station
+  rotate: false
+  xy: 544, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gambling Den
+  rotate: false
+  xy: 652, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Semperoper
+  rotate: false
+  xy: 1084, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Silicon Shield
+  rotate: false
+  xy: 1084, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Silicon Valley
+  rotate: false
+  xy: 1192, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Confederacy of Necessity
+  rotate: false
+  xy: 328, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Cultdroga
+  rotate: false
+  xy: 436, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Highwater
+  rotate: false
+  xy: 760, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Manuka Covenant
+  rotate: false
+  xy: 868, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Minalopolis
+  rotate: false
+  xy: 976, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Perfect Harvest
+  rotate: false
+  xy: 976, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Technocracy of Grond
+  rotate: false
+  xy: 1192, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Red 420
+  rotate: false
+  xy: 1300, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cat Fighter
+  rotate: false
+  xy: 1408, 157
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Catamaran
+  rotate: false
+  xy: 1408, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Custodian
+  rotate: false
+  xy: 1408, 68
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fanatic
+  rotate: false
+  xy: 1511, 171
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Flamethrower
+  rotate: false
+  xy: 1480, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Grond
+  rotate: false
+  xy: 1511, 82
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Marksman
+  rotate: false
+  xy: 1552, 18
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Zweihander
+  rotate: false
+  xy: 1614, 157
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Growhouse
+  rotate: false
+  xy: 1717, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Home Gym
+  rotate: false
+  xy: 1861, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Growhouse
+  rotate: false
+  xy: 1789, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Home Gym
+  rotate: false
+  xy: 1933, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Opium
+  rotate: false
+  xy: 1717, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rice
+  rotate: false
+  xy: 1789, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tea
+  rotate: false
+  xy: 1861, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Cat Fighter
+  rotate: false
+  xy: 112, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Catamaran
+  rotate: false
+  xy: 220, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Custodian
+  rotate: false
+  xy: 436, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fanatic
+  rotate: false
+  xy: 544, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Flamethrower
+  rotate: false
+  xy: 652, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Grond
+  rotate: false
+  xy: 760, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Marksman
+  rotate: false
+  xy: 868, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Zweihander
+  rotate: false
+  xy: 1300, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Zweihander",
+    "unitType": "Sword",
+    "replaces": "Longswordsman",
+    "uniqueTo": "Perfect Harvest",
+    "movement": 2,
+    "strength": 23,
+    "cost": 120,
+    "requiredTech": "Steel",
+    "upgradesTo": "Musketman",
+    "obsoleteTech": "Gunpowder",
+    "requiredResource": "Iron",
+    "promotions": ["Shock I"],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Fanatic",
+    "unitType": "Sword",
+    "replaces": "Swordsman",
+    "uniqueTo": "Cultdroga",
+    "movement": 2,
+    "strength": 13,
+    "cost": 65,
+    "requiredTech": "Iron Working",
+    "upgradesTo": "Longswordsman",
+    "obsoleteTech": "Steel",
+    "hurryCostModifier": 20,
+    "uniques": [
+      "Can be purchased for [130] [Faith] [in all cities]"
+    ],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Marksman",
+    "unitType": "Ranged Gunpowder",
+    "replaces": "Machine Gun",
+    "uniqueTo": "Manuka Covenant",
+    "range": 2,
+    "movement": 2,
+    "strength": 60,
+    "rangedStrength": 60,
+    "cost": 350,
+    "requiredTech": "Ballistics",
+    "upgradesTo": "Mechanized Infantry",
+    "uniques": ["Must set up to ranged attack"],
+    "attackSound": "machinegun"
+  },
+  {
+    "name": "Flamethrower",
+    "unitType": "Ranged Gunpowder",
+    "replaces": "Machine Gun",
+    "uniqueTo": "The Red 420",
+    "range": 1,
+    "movement": 2,
+    "strength": 65,
+    "rangedStrength": 65,
+    "cost": 400,
+    "requiredTech": "Ballistics",
+    "upgradesTo": "Mechanized Infantry",
+    "attackSound": "machinegun"
+  },
+  {
+    "name": "Cat Fighter",
+    "unitType": "Sword",
+    "replaces": "Longswordsman",
+    "uniqueTo": "Confederacy of Necessity",
+    "movement": 3,
+    "strength": 20,
+    "cost": 120,
+    "requiredTech": "Steel",
+    "upgradesTo": "Musketman",
+    "obsoleteTech": "Gunpowder",
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Grond",
+    "unitType": "Sword",
+    "replaces": "Pikeman",
+    "uniqueTo": "Technocracy of Grond",
+    "movement": 2,
+    "strength": 16,
+    "cost": 100,
+    "requiredTech": "Civil Service",
+    "upgradesTo": "Lancer",
+    "obsoleteTech": "Metallurgy",
+    "uniques": [
+      "[-1] Sight",
+      "[+50]% Strength <vs cities> <when attacking>"
+    ],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Custodian",
+    "unitType": "Gunpowder",
+    "replaces": "Rifleman",
+    "uniqueTo": "Minalopolis",
+    "movement": 2,
+    "strength": 34,
+    "cost": 225,
+    "requiredTech": "Rifling",
+    "obsoleteTech": "Replaceable Parts",
+    "upgradesTo": "Great War Infantry",
+    "promotions": ["Custodian Guard"],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Catamaran",
+    "unitType": "Melee Water",
+    "replaces": "Caravel",
+    "uniqueTo": "Highwater",
+    "movement": 4,
+    "strength": 20,
+    "cost": 110,
+    "requiredTech": "Astronomy",
+    "upgradesTo": "Ironclad",
+    "obsoleteTech": "Combustion",
+    "uniques": [
+      "[+1] Sight",
+      "Withdraws before melee combat <with [80]% chance>"
+    ],
+    "hurryCostModifier": 30,
+    "attackSound": "cannon"
+  }
+]
