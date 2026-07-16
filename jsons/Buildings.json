@@ -9,7 +9,8 @@
     "hurryCostModifier": 25,
     "uniques": [
       "[+1 Gold, +1 Faith] from [Gold Ore] tiles [in this city]",
-      "[+1 Gold, +1 Faith] from [Silver] tiles [in this city]"
+      "[+1 Gold, +1 Faith] from [Silver] tiles [in this city]",
+      "[+1 Gold, +1 Faith] from [Opium] tiles [in this city]"
     ],
     "requiredTech": "Currency"
   },
@@ -20,7 +21,7 @@
     "maintenance": 1,
     "happiness": 2,
     "hurryCostModifier": 25,
-    "percentStatBonus": {"gold": 10},
+    "percentStatBonus": {"gold": 15},
     "uniques": [
       "[+1 Gold] from every specialist [in this city]"
     ],
@@ -62,7 +63,7 @@
     "name": "Ballet Theatre",
     "replaces": "Opera House",
     "uniqueTo": "Minalopolis",
-    "culture": 5,
+    "culture": 6,
     "specialistSlots": {"Artist": 1},
     "greatPersonPoints": {"Great Artist": 1},
     "hurryCostModifier": 10,
@@ -120,6 +121,7 @@
     "uniques": [
       "[+1 Science, +1 Gold] from every [Scientist] <in cities with a [Silicon Valley]>"
     ],
+    "quote": "The best way to predict the future is to invent it. - Alan Kay",
     "requiredTech": "Computers"
   },
   {
@@ -130,6 +132,7 @@
     "uniques": [
       "[+1 Culture] from every [Opera House]"
     ],
+    "quote": "The stage is a moral institution. - Friedrich Schiller",
     "requiredTech": "Scientific Theory"
   },
   {
@@ -139,6 +142,7 @@
     "uniques": [
       "[+15]% Strength <for [Military] units> <when defending> <when fighting in [Friendly Land] tiles>"
     ],
+    "quote": "The good fighters of old first put themselves beyond the possibility of defeat. - Sun Tzu",
     "requiredTech": "Electronics"
   },
   {
@@ -154,6 +158,7 @@
       "Great Merchant": 1,
       "Great Scientist": 1
     },
+    "quote": "Man is by nature a political animal. - Aristotle",
     "requiredTech": "Economics"
   },
   {
@@ -171,6 +176,25 @@
       "[+1 Culture] from [Spices] tiles [in this city]",
       "[+1 Culture] from [Opium] tiles [in this city]"
     ],
+    "quote": "The division of labour is limited by the extent of the market. - Adam Smith",
     "requiredTech": "Banking"
+  },
+  {
+    "name": "Chinese Theatre",
+    "isWonder": true,
+    "cost": 600,
+    "culture": 4,
+    "happiness": 4,
+    "greatPersonPoints": {"Great Artist": 1},
+    "uniques": [
+      "[+1 Gold] from every [Artist]"
+    ],
+    "quote": "To educate somebody, you should start with poems, emphasize ceremonies, and finish with music. - Confucius",
+    "requiredTech": "Radio",
+    "civilopediaText": [
+      {
+        "text": "The Chinese Theatre is a late cultural and entertainment landmark, bringing artists and audiences together on a grand stage."
+      }
+    ]
   }
 ]

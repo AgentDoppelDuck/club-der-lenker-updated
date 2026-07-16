@@ -9,7 +9,7 @@
     "attacked": "How vulgar. I had Claude prepare several responses to this, but none were quite expensive enough.",
     "defeated": "The cellar is empty, the harvest is lost... and Claude insists this was avoidable.",
     "denounced": "Your conduct lacks refinement, discipline, and basic financial sense. Perfect Harvest will no longer pretend otherwise.",
-    "neutralDenouncing": "We reviewed your behavior carefully. Claude called it “strategically concerning.�? I would call it tasteless.",
+    "neutralDenouncing": "We reviewed your behavior carefully. Claude called it “strategically concerning.�? I would call it tasteless.",
     "hateDenouncing": "Even ruin can possess dignity. You have managed without it.",
     "tradeRequest": "I have prepared an arrangement of excellent quality and reasonable margin. Claude says you should accept.",
     "declaringFriendship": "Prosperity is best enjoyed in good company. Let us share fine tables, favorable terms, and Claude’s better recommendations.",
@@ -26,9 +26,9 @@
       "[1] Happiness from each type of luxury resource"
     ],
     "cities": [
-      "Verdance", "Glassfield", "Goldenrow", "Sweetwater", "Poldermere", "Amberwick",
+      "Verdance", "Glassfield", "Goldenrow", "Amberwick",
       "Meadowcross", "High Orchard", "Greengate", "Stillbarrow", "Brightloam", "New Verdance",
-      "Vintner's Reach", "Gilt Orchard", "Caskmere", "Reserve Hill"
+      "Vintner's Reach", "Gilt Orchard", "Caskmere", "Reserve Hill", "Talisker"
     ]
   },
   {
@@ -53,16 +53,16 @@
     "innerColor": [235, 196, 96],
     "personality": "Supreme Leader Androga",
     "preferredVictoryType": "Domination",
-    "startBias": ["Hills"],
+    "startBias": ["Mountain"],
     "favoredReligion": "Hinduism",
     "uniqueName": "Mandatory Donation",
     "uniqueText": "+1 Faith per 10 Gold per turn.",
     "uniques": [
-      "[+1 Faith] <for every [10] [[Gold] Per Turn]>"
+      "Gain [1] [Faith] <for every [10] [[Gold] Per Turn]> <upon turn start>"
     ],
     "cities": [
       "Droga Prime", "Tithewell", "Incense Court", "Vowmarket", "Oathbridge", "Marigold Hall",
-      "Duskbank", "Pilgrim's Due", "Saffron Gate", "Bellvault", "Almsford", "Second Offering",
+      "Duskbank", "Pilgrim's Due", "Saffron Gate", "Bellvault", "Second Offering",
       "First Revelation", "Sainted Ledger", "Tribute Vale", "Oracle's Step"
     ]
   },
@@ -88,7 +88,7 @@
     "innerColor": [249, 231, 154],
     "personality": "King Manuka",
     "preferredVictoryType": "Scientific",
-    "startBias": ["Grassland"],
+    "startBias": ["River"],
     "uniqueName": "Patronage of Excellence",
     "uniqueText": "+2 Food and +2 Gold from every Great Improvement.",
     "uniques": [
@@ -120,7 +120,7 @@
     "innerColor": [225, 225, 215],
     "personality": "Foreman Big M",
     "preferredVictoryType": "Domination",
-    "startBias": ["Hills"],
+    "startBias": ["Hill"],
     "uniqueName": "Relentless Industry",
     "uniqueText": "Can build all improvements at a +25% rate.",
     "uniques": [
@@ -194,8 +194,8 @@
       "[+15]% Production when constructing [Science] buildings [in all cities]"
     ],
     "cities": [
-      "Grond", "Ledger Spire", "Gatebreaker's Hold", "Dreadspire", "Index Point", "Vesper Reach",
-      "Kessel Ward", "Mandalore Forge", "Modeltown", "Optimization Gate", "The Great Gate", "New Grond"
+      "Grond", "Broken Shire", "Gatebreaker's Hold", "Dreadspire", "Vesper Reach",
+      "Kessel Ward", "Mandalore Forge", "The Great Gate", "New Grond"
     ]
   },
   {
@@ -218,7 +218,7 @@
     "innerColor": [70, 47, 123],
     "personality": "Queen Emynor",
     "preferredVictoryType": "Cultural",
-    "startBias": ["Hills"],
+    "startBias": ["Hill"],
     "uniqueName": "Prestige Society",
     "uniqueText": "+2 Culture from every Wonder. -10% Unhappiness from Population in all cities.",
     "uniques": [
@@ -227,7 +227,7 @@
     ],
     "cities": [
       "Minalopolis", "Grand Atrium", "Marble Row", "Velvet Stage", "Gallery Ward", "Fountain Court",
-      "Prestige Hill", "Old Salon", "Curtainfall", "Academy Steps", "Mina Nova", "South Gallery",
+      "Prestige Hill", "Old Ballroom", "Curtainfall", "Academy Steps", "Mina Nova", "South Gallery",
       "Commonweal", "Lantern Square", "Civic Garden", "Harmony Terrace"
     ]
   },
@@ -261,7 +261,7 @@
     "cities": [
       "Highwater", "Tideholm", "Brackish Quay", "Reefgate", "North Shoal", "Harborlight",
       "Saltgarden", "Bluebank", "Canal Rest", "Kelpwatch", "Estuary", "New Highwater",
-      "Windward", "Moonwake", "Sunreef", "Driftwood Cove"
+      "Windward", "Moonwake", "Sunreef", "Driftwood Cove", "Sweetwater"
     ]
   }
 ]
