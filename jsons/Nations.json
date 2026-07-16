@@ -34,7 +34,7 @@
   {
     "name": "Cultdroga",
     "leaderName": "Supreme Leader Androga",
-    "startIntroPart1": "You promised prosperity to the desperate, purpose to the ambitious, and revelation to the devoted. You planted the prophecy yourself—and when the first believers knelt, Androga the man began his transformation into Androga the divine.",
+    "startIntroPart1": "All hail Supreme Leader Androga, founder and living god of Cultdroga! In an age of uncertainty, you promised prosperity to the desperate, purpose to the ambitious, and revelation to the devoted. You planted the prophecy yourself—and when the first believers knelt, their offerings raised your altars and filled your treasury. What began as a gathering of disciples soon became a faith, the faith became a nation, and Androga the man began his transformation into Androga the divine.",
     "startIntroPart2": "Supreme Leader Androga, the cult awaits your command. Will the world offer tribute willingly—or learn the true meaning of sacrifice?",
     "introduction": "You stand before Cultdroga, the chosen vessel of prosperity, revelation, and inevitable dominion. My followers already know your purpose. I am merely waiting for you to understand it.",
     "neutralHello": "Approach. Even doubters may prove useful.",
@@ -69,7 +69,7 @@
   {
     "name": "Manuka Covenant",
     "leaderName": "King Manuka",
-    "startIntroPart1": "From gilded halls and crowded gaming tables, you built more than a kingdom—you constructed an empire of calculated risk. Every specialist became an investment, every great mind a winning hand, and every city a monument to disciplined ambition. Where others trusted fate, the Manuka Covenant engineered its own fortune.",
+    "startIntroPart1": "Hail King Manuka, master of fortune and sovereign of the Manuka Covenant! From gilded halls and crowded gaming tables, you built more than a kingdom—you constructed an empire of calculated risk. Merchants placed their wealth in your hands, scholars and artists sought your patronage, and every exceptional mind became an investment in the Covenant’s future. Every specialist was cultivated, every great achievement rewarded, and every city raised as a monument to disciplined ambition. Where lesser rulers entrusted their destiny to chance, the Manuka Covenant learned to engineer its own fortune.",
     "startIntroPart2": "King Manuka, the table is prepared and the future is waiting to be claimed. Will you master the odds and construct a civilization whose greatness was never left to chance?",
     "introduction": "Welcome to the Manuka Covenant, where talent is cultivated, fortune is tested, and excellence is always rewarded. Take a seat, place your wager, and demonstrate that you are worth the investment.",
     "neutralHello": "Welcome. I trust you have brought something more valuable than optimism.",
