@@ -86,7 +86,8 @@
     "obsoleteTech": "Metallurgy",
     "uniques": [
       "[-1] Sight",
-      "[+50]% Strength <vs cities> <when attacking>"
+      "[+100]% Strength <vs cities> <when attacking>",
+      "Can only attack [City] units"
     ],
     "attackSound": "metalhit"
   },

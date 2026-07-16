@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -62,28 +62,42 @@ BuildingIcons/Gambling Den
   index: -1
 BuildingIcons/Semperoper
   rotate: false
-  xy: 544, 176
+  xy: 760, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Silicon Shield
   rotate: false
-  xy: 652, 284
+  xy: 544, 68
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Silicon Valley
   rotate: false
-  xy: 760, 392
+  xy: 652, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Silk Road
   rotate: false
-  xy: 544, 68
+  xy: 760, 284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Growhouse
+  rotate: false
+  xy: 544, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Home Gym
+  rotate: false
+  xy: 436, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -104,70 +118,70 @@ NationIcons/Cultdroga
   index: -1
 NationIcons/Highwater
   rotate: false
-  xy: 544, 392
+  xy: 328, 68
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Manuka Covenant
   rotate: false
-  xy: 328, 68
+  xy: 544, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Minalopolis
   rotate: false
-  xy: 436, 176
+  xy: 652, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Perfect Harvest
   rotate: false
-  xy: 652, 392
+  xy: 544, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Technocracy of Grond
   rotate: false
-  xy: 760, 284
+  xy: 652, 68
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Red 420
   rotate: false
-  xy: 868, 392
+  xy: 760, 176
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Opium
   rotate: false
-  xy: 544, 284
+  xy: 436, 68
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Rice
   rotate: false
-  xy: 436, 68
+  xy: 652, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Tea
   rotate: false
-  xy: 652, 176
+  xy: 868, 392
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cat Fighter
   rotate: false
-  xy: 760, 195
+  xy: 976, 411
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -181,42 +195,42 @@ TileSets/AbsoluteUnits/Units/Catamaran
   index: -1
 TileSets/AbsoluteUnits/Units/Crimson Guard
   rotate: false
-  xy: 868, 303
+  xy: 760, 87
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Custodian
   rotate: false
-  xy: 760, 106
+  xy: 868, 195
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Fanatic
   rotate: false
-  xy: 760, 17
+  xy: 976, 322
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Flamethrower
   rotate: false
-  xy: 863, 47
+  xy: 1182, 436
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Grond
   rotate: false
-  xy: 868, 214
+  xy: 1079, 411
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zweihander
   rotate: false
-  xy: 863, 111
+  xy: 1079, 308
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
@@ -230,42 +244,42 @@ TileSets/FantasyHex/Tiles/Growhouse
   index: -1
 TileSets/FantasyHex/Tiles/Home Gym
   rotate: false
-  xy: 220, 4
+  xy: 1254, 436
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Growhouse
   rotate: false
-  xy: 148, 4
+  xy: 1182, 372
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Home Gym
   rotate: false
-  xy: 292, 4
+  xy: 148, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Opium
   rotate: false
-  xy: 364, 4
+  xy: 1182, 308
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Rice
   rotate: false
-  xy: 436, 4
+  xy: 1254, 372
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tea
   rotate: false
-  xy: 508, 4
+  xy: 1326, 436
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -321,7 +335,7 @@ UnitIcons/Grond
   index: -1
 UnitIcons/Zweihander
   rotate: false
-  xy: 652, 68
+  xy: 868, 284
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
